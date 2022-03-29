@@ -1,4 +1,4 @@
-# Lord-Botz-v2
+# Lord-BOT
 
 <a href="https://github.com/AmmarBN/lordbot-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AmmarBN/lordbot-v2?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/AmmarBN/lordbot-v2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AmmarBN/lordbot-v2?label=Watchers&color=green&style=flat-square"></a>
