@@ -41,7 +41,7 @@ ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n�
 ║   *ANDA DI DATABASE KAMI*
 ║ 
 ║ 
-╠═ ©2021 ${package.name}
+╠═ ©2022 ${package.name}
 ╠═ Script original by Nurutomo
 ╠═〘 METRO BOT 〙 ═
 `.trim(), m)
