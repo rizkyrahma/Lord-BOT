@@ -26,16 +26,16 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/AmmarBN/lordbot-v2",
+  "homepage": "https://github.com/rizkyrahma/Lord-BOT",
   "author": {
-    "name": "AmmarBN"
+    "name": "rizkyrahma"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmmarBN/lordbot-v2.git"
+    "url": "git+https://github.com/rizkyrahma/Lord-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/AmmarBN/lordbot-v2/issues"
+    "url": "https://github.com/rizkyrahma/Lord-BOT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
