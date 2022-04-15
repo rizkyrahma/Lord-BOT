@@ -31,20 +31,28 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─回「 %me 」
-│ Halo, %name! %ucapan
-│
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
-│
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
-│ github.com/rizkyrahma/Lord-BOT
-╰─回
+╭─❏「 %me 」
+│ Halo👋, %name! Saya %me🤖 
+╰─━━━━━━━━━━━━━━━━
+╭─❏「 Profile %name 」
+│🤖 Tersisa *%limit Limit*
+│👥 Role *%role*
+│🎉 Level *%level (%exp / %maxexp)* 
+[%xp4levelup lagi untuk levelup]
+│👾 %totalexp XP in Total
+╰─━━━━━━━━━━━━━━━━━━
+╭─❏「 Information 」
+│📅 Tanggal: *%week %weton, %date*
+│👳 Tanggal Islam: *%dateIslamic*
+│⏰ Waktu: *%time*
+╰─━━━━━━━━━━━━━━━━━━
+╭─❏「 Information² 」
+│🕦 Uptime: *%uptime (%muptime)*
+│📁 Database: %rtotalreg of %totalreg
+│🐾 Github: %github
+╰─━━━━━━━━━━━━━━━━━━
 %readmore`.trimStart(),
-  header: '╭─回「 %category 」',
+  header: '╭─回 %category 」',
   body: '├❥ %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
