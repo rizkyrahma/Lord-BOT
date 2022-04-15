@@ -45,7 +45,7 @@ const defaultMenu = {
 ╰─回
 %readmore`.trimStart(),
   header: '╭─回「 %category 」',
-  body: '├❥ %cmd %islimit %isPremium',
+  body: '├➸ %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
 *%npmname@^%version*
